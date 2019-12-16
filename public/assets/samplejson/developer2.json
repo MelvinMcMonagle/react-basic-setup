@@ -1,0 +1,11 @@
+{
+	"id": 2,
+	"name": "Developer B",
+	"email": "db@test.com",
+	"phone": "987654321",
+	"city": "Essen",
+	"state": "NRW",
+	"country": "Germany",
+	"organization": "Digispace",
+	"jobProfile": "Software Developer"
+}

@@ -1,0 +1,11 @@
+{
+	"id": 3,
+	"name": "Developer C",
+	"email": "dc@test.com",
+	"phone": "123412345",
+	"city": "Munich",
+	"state": "Bayern",
+	"country": "Germany",
+	"organization": "Digital Factory",
+	"jobProfile": "Software Developer"
+}
